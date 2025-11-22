@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "REVERSE.C": "cpp"
+        "REVERSE.C": "cpp",
+        "1 to N .C": "cpp"
     }
 }
