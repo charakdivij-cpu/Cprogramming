@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "REVERSE.C": "cpp",
-        "1 to N .C": "cpp"
+        "1 to N .C": "cpp",
+        "GCD OR HCF.C": "cpp"
     }
 }
